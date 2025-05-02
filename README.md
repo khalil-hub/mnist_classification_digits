@@ -39,5 +39,5 @@ Test on Distorted & Real External Digits (e.g., photos, sketches)
 
 Built by Karu chan
 For learning, experimentation, and real-world impact.
-👨‍💻[Github](https://github.com/khalil-hub)
-[Linkedin](https://www.linkedin.com/in/khalil-mosbah-3174a41a1/)
+[👨‍💻 Github](https://github.com/khalil-hub)  
+[🔗 Linkedin](https://www.linkedin.com/in/khalil-mosbah-3174a41a1/)
