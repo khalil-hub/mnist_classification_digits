@@ -1,12 +1,15 @@
 #  MNIST Classification Workflow
-**Live Demo**: [Click here to try it!](https://your-username-mnist-streamlit.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-ff4b4b?logo=streamlit&style=flat-square)](https://mnistclassificationdigits-im22fyyvmzbxcuaagd83qh.streamlit.app/)
 
 A complete deep learning workflow for training, evaluating, and deploying a digit classifier on the MNIST dataset — with a Streamlit-powered web app for real-time image inference.
 
+![MNIST Streamlit Demo](assets/screenshot.png)
+> **Example**: Model correctly classifying a handwritten "0" with 100% confidence.
 
 ---
 
 ##  Workflow Overview
+```text
 
 Load & Preprocess Data
 ↓
@@ -36,3 +39,5 @@ Test on Distorted & Real External Digits (e.g., photos, sketches)
 
 Built by Karu chan
 For learning, experimentation, and real-world impact.
+👨‍💻[Github](https://github.com/khalil-hub)
+[Linkedin](https://www.linkedin.com/in/khalil-mosbah-3174a41a1/)
