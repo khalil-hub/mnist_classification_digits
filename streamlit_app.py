@@ -19,7 +19,7 @@ if uploaded_file is not None:
 
     # Save temporarily and preprocess
     cv2.imwrite("temp_input.jpg", image)
-    x_input = pre_process_real_image("temp_input.jpg", show_debug=False)
+    x_input = pre_process_real_image("temp_input.jpg")
 
     # Predict
     pred = model.predict(x_input)

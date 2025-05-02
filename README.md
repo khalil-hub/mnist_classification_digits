@@ -1,6 +1,8 @@
 #  MNIST Classification Workflow
+**Live Demo**: [Click here to try it!](https://your-username-mnist-streamlit.streamlit.app)
 
-A complete deep learning pipeline for training, evaluating, and deploying a digit classifier on the MNIST dataset — with a focus on robustness, visualization, and real-world usability.
+A complete deep learning workflow for training, evaluating, and deploying a digit classifier on the MNIST dataset — with a Streamlit-powered web app for real-time image inference.
+
 
 ---
 
